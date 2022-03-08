@@ -6,7 +6,7 @@ from src.mi_proyecto.persona import Persona
 
 class PersonaTestCase(unittest.TestCase):
     """
-    Mi comentario de prueba
+    Mi comentario de prueba super modificado
     """
 
     def setUp(self):
