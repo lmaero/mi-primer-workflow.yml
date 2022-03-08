@@ -5,6 +5,9 @@ from src.mi_proyecto.persona import Persona
 
 
 class PersonaTestCase(unittest.TestCase):
+    """
+    Mi comentario de prueba
+    """
 
     def setUp(self):
         self.persona1 = Persona(nombre='Alejandra', edad=25)
